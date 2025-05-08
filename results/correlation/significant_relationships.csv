@@ -1,0 +1,47 @@
+x,y,correlation,p_value,plot_file
+PM2.5 exposure,SO2 exposure,0.23816633455077285,0.0004995763439246166,results/correlation/PM2.5_exposure_vs_SO2_exposure.png
+PM2.5 exposure,Household solid fuels,0.4710015218488365,5.412679869564008e-13,results/correlation/PM2.5_exposure_vs_Household_solid_fuels.png
+PM2.5 exposure,Unsafe drinking water,0.5830691052579434,1.612093229108782e-20,results/correlation/PM2.5_exposure_vs_Unsafe_drinking_water.png
+PM2.5 exposure,Unsafe sanitation,0.5027252789644393,7.527345811605387e-15,results/correlation/PM2.5_exposure_vs_Unsafe_sanitation.png
+PM2.5 exposure,Lead exposure,0.6331084455382036,6.358495578343423e-25,results/correlation/PM2.5_exposure_vs_Lead_exposure.png
+PM2.5 exposure,Terrestrial biome protection (global weights),0.28252606534407937,3.256945913270494e-05,results/correlation/PM2.5_exposure_vs_Terrestrial_biome_protection_(global_weights).png
+PM2.5 exposure,Tree cover loss,-0.1740390793921643,0.01152637385986896,results/correlation/PM2.5_exposure_vs_Tree_cover_loss.png
+PM2.5 exposure,Greenhouse gas emissions per capita,-0.3321144669467306,8.454708327017025e-07,results/correlation/PM2.5_exposure_vs_Greenhouse_gas_emissions_per_capita.png
+PM2.5 exposure,Ozone exposure,0.2789972462120039,4.120016609932769e-05,results/correlation/PM2.5_exposure_vs_Ozone_exposure.png
+PM2.5 exposure,Recycling,0.3702329775961108,3.1847143867850784e-08,results/correlation/PM2.5_exposure_vs_Recycling.png
+SO2 exposure,Unsafe sanitation,-0.1499886126723177,0.029789740545370782,results/correlation/SO2_exposure_vs_Unsafe_sanitation.png
+SO2 exposure,Biodiversity Habitat Index,0.19491431779914448,0.004583153026040471,results/correlation/SO2_exposure_vs_Biodiversity_Habitat_Index.png
+SO2 exposure,Ocean Plastics,0.4859159043332321,7.66171038005958e-14,results/correlation/SO2_exposure_vs_Ocean_Plastics.png
+SO2 exposure,Greenhouse gas emissions per capita,0.14745408927945655,0.03270003721187033,results/correlation/SO2_exposure_vs_Greenhouse_gas_emissions_per_capita.png
+SO2 exposure,Ozone exposure,0.3897290061470758,5.0101255313722865e-09,results/correlation/SO2_exposure_vs_Ozone_exposure.png
+Household solid fuels,Unsafe drinking water,0.8680188943906143,3.6312646111018468e-65,results/correlation/Household_solid_fuels_vs_Unsafe_drinking_water.png
+Household solid fuels,Unsafe sanitation,0.8851025802283161,5.034198227592406e-71,results/correlation/Household_solid_fuels_vs_Unsafe_sanitation.png
+Household solid fuels,Lead exposure,0.6976380012522582,5.961017201288423e-32,results/correlation/Household_solid_fuels_vs_Lead_exposure.png
+Household solid fuels,Greenhouse gas emissions per capita,-0.7059652672229259,5.3691176552373244e-33,results/correlation/Household_solid_fuels_vs_Greenhouse_gas_emissions_per_capita.png
+Household solid fuels,Ozone exposure,0.25162054136995565,0.00022958952018606072,results/correlation/Household_solid_fuels_vs_Ozone_exposure.png
+Household solid fuels,Recycling,0.38635227942809386,6.962458755152655e-09,results/correlation/Household_solid_fuels_vs_Recycling.png
+Unsafe drinking water,Unsafe sanitation,0.9610510474527938,3.88934051734127e-118,results/correlation/Unsafe_drinking_water_vs_Unsafe_sanitation.png
+Unsafe drinking water,Lead exposure,0.750492048295912,2.8241156229750824e-39,results/correlation/Unsafe_drinking_water_vs_Lead_exposure.png
+Unsafe drinking water,Terrestrial biome protection (global weights),0.1537671036386682,0.025862806054725383,results/correlation/Unsafe_drinking_water_vs_Terrestrial_biome_protection_(global_weights).png
+Unsafe drinking water,Greenhouse gas emissions per capita,-0.7165975642767316,2.1911320834414407e-34,results/correlation/Unsafe_drinking_water_vs_Greenhouse_gas_emissions_per_capita.png
+Unsafe drinking water,Ozone exposure,0.18550217624191445,0.00702677393096112,results/correlation/Unsafe_drinking_water_vs_Ozone_exposure.png
+Unsafe drinking water,Recycling,0.44459007718854265,1.3793012342409139e-11,results/correlation/Unsafe_drinking_water_vs_Recycling.png
+Unsafe sanitation,Lead exposure,0.7357744027919083,4.640836638232652e-37,results/correlation/Unsafe_sanitation_vs_Lead_exposure.png
+Unsafe sanitation,Greenhouse gas emissions per capita,-0.7271301221156701,7.945805861320149e-36,results/correlation/Unsafe_sanitation_vs_Greenhouse_gas_emissions_per_capita.png
+Unsafe sanitation,Ozone exposure,0.2124745631942684,0.001960840049158604,results/correlation/Unsafe_sanitation_vs_Ozone_exposure.png
+Unsafe sanitation,Recycling,0.4416114724832011,1.953440684137755e-11,results/correlation/Unsafe_sanitation_vs_Recycling.png
+Lead exposure,Terrestrial biome protection (global weights),0.20604733569185893,0.0026967023253119987,results/correlation/Lead_exposure_vs_Terrestrial_biome_protection_(global_weights).png
+Lead exposure,Tree cover loss,-0.15030625560569047,0.029441088540205725,results/correlation/Lead_exposure_vs_Tree_cover_loss.png
+Lead exposure,Ocean Plastics,0.1620558432488861,0.01877593647100627,results/correlation/Lead_exposure_vs_Ocean_Plastics.png
+Lead exposure,Greenhouse gas emissions per capita,-0.5791667438600375,3.3077548780321975e-20,results/correlation/Lead_exposure_vs_Greenhouse_gas_emissions_per_capita.png
+Lead exposure,Ozone exposure,0.36655155258433103,4.4554552527730994e-08,results/correlation/Lead_exposure_vs_Ozone_exposure.png
+Lead exposure,Recycling,0.4503840405147592,6.9410642570052395e-12,results/correlation/Lead_exposure_vs_Recycling.png
+Biodiversity Habitat Index,Terrestrial biome protection (global weights),-0.13811392881245427,0.04559692532042237,results/correlation/Biodiversity_Habitat_Index_vs_Terrestrial_biome_protection_(global_weights).png
+Biodiversity Habitat Index,Greenhouse gas emissions per capita,-0.157135801257129,0.022745003816505557,results/correlation/Biodiversity_Habitat_Index_vs_Greenhouse_gas_emissions_per_capita.png
+Biodiversity Habitat Index,Ozone exposure,0.1447146378895284,0.03611402460633028,results/correlation/Biodiversity_Habitat_Index_vs_Ozone_exposure.png
+Terrestrial biome protection (global weights),Tree cover loss,-0.23416575821783955,0.0006243360856251282,results/correlation/Terrestrial_biome_protection_(global_weights)_vs_Tree_cover_loss.png
+Tree cover loss,Ocean Plastics,0.1662389111142845,0.015889004483500765,results/correlation/Tree_cover_loss_vs_Ocean_Plastics.png
+Ocean Plastics,Ozone exposure,0.3439540401246548,3.197276693309047e-07,results/correlation/Ocean_Plastics_vs_Ozone_exposure.png
+Greenhouse gas emissions per capita,Ozone exposure,-0.19805487167220073,0.003957163874932986,results/correlation/Greenhouse_gas_emissions_per_capita_vs_Ozone_exposure.png
+Greenhouse gas emissions per capita,Recycling,-0.40033976188014436,1.7383748436784988e-09,results/correlation/Greenhouse_gas_emissions_per_capita_vs_Recycling.png
+Ozone exposure,Recycling,0.15260657935451535,0.027018687967945675,results/correlation/Ozone_exposure_vs_Recycling.png
